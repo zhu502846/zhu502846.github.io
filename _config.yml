@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Kevin Zhu / Kevin Zhu's Website"
+title: "Kevin Zhu's Website"
 title_separator: "-"
 name: &name "Kevin Zhu"
 description: &description "Student"

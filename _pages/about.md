@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin Zhu's Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 4th year undergrad in computer science at UC Berkeley. I am broadly interested in algorithms and machine learning. After graduation, I will be joining Citadel as a quantitative research analyst.
+Hi! I am a 4th year undergrad in computer science at UC Berkeley. I am broadly interested in algorithms, machine learning, and software development. After graduation, I will be joining Citadel as a quantitative research analyst. For my full professional history, please refer to my linkedin profile or reach out to my email.
 
 <!-- # A data-driven personal website
 
