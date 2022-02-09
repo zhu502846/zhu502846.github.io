@@ -80,8 +80,8 @@ analytics:
 author:
   name: "Kevin Zhu"
   avatar: "propic.jpg"
-  bio: "Hi! I am a 4th year undergrad in computer science. After graduation, I will be doing quantitative research at Citadel."
-  location: "Berkeley"
+  bio: "CS @ UC Berkeley"
+  # location: "Berkeley"
   employer:
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar: "http://yourfullgooglescholarurl.com"
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "zhu502846"
+  # github: "zhu502846"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  # orcid: "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  # twitter: "replacethistwitterhandle"
   vine:
   weibo:
   xing:
