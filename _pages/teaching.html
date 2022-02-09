@@ -5,8 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-6P5BQXRMJD"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+    gtag("config", "G-6P5BQXRMJD");
+  </script>
+</head>
+{% include base_path %} {% for post in site.teaching reversed %} {% include
+archive-single.html %} {% endfor %}
