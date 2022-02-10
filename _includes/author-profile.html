@@ -1,7 +1,3 @@
-{% include base_path %} {% if page.author and site.data.authors[page.author] %}
-{% assign author = site.data.authors[page.author] %}{% else %}{% assign author =
-site.author %} {% endif %}
-
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script
@@ -18,6 +14,10 @@ site.author %} {% endif %}
     gtag("config", "G-YFVSRNTTGK");
   </script>
 </head>
+
+{% include base_path %} {% if page.author and site.data.authors[page.author] %}
+{% assign author = site.data.authors[page.author] %}{% else %}{% assign author =
+site.author %} {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
   <div class="author__avatar">
